@@ -1,4 +1,4 @@
-package Inheritance.why_inheritance;
+package Inheritance.Lecture_1;
 
 import java.util.ArrayList;
 
