@@ -1,4 +1,4 @@
-package Inheritance.lecture_2;
+package common;
 
 public class Person {
 	

@@ -1,5 +1,8 @@
 package Inheritance.lecture_2;
 
+import common.Faculty;
+import common.Student;
+
 public class Presenter {
 
 	public static void main(String[] args) {
